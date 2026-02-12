@@ -1,0 +1,8 @@
+{
+  "pages": [
+    { "slug": "stake-atom", "title": "Stake ATOM" },
+    { "slug": "earn-yield", "title": "Earn Yield" },
+    { "slug": "governance", "title": "Governance" },
+    { "slug": "redeem", "title": "Redeem stTokens" }
+  ]
+}
