@@ -3,6 +3,15 @@
     { "slug": "stake-atom", "title": "Stake ATOM" },
     { "slug": "earn-yield", "title": "Earn Yield" },
     { "slug": "governance", "title": "Governance" },
-    { "slug": "redeem", "title": "Redeem stTokens" }
+    { "slug": "redeem", "title": "Redeem stTokens" },
+    { "slug": "osmosis-xyk", "title": "Osmosis XYK" },
+    { "slug": "osmosis-stableswap", "title": "Osmosis StableSwap" },
+    { "slug": "osmosis-concentrated-liquidity", "title": "Osmosis Concentrated Liquidity" },
+    { "slug": "shade-protocol", "title": "Shade Protocol" },
+    { "slug": "astroport", "title": "Astroport" },
+    { "slug": "nolus", "title": "Nolus" },
+    { "slug": "hydro", "title": "Hydro" },
+    { "slug": "helix", "title": "Helix" },
+    { "slug": "umee", "title": "Umee" }
   ]
 }
